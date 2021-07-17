@@ -1,0 +1,44 @@
+
+.posts {
+    width: 600px;
+}
+
+.id {
+    margin-bottom: 20px;
+    background-color: gray;
+    display: inline;
+    padding: 5px 5px;
+}
+
+.title {
+    margin-bottom: 20px;
+    background-color: lightblue;
+}
+
+.body {
+    margin-bottom: 20px;
+    background-color: rgb(205, 241, 106);
+}
+
+.jokes {
+    color: white;
+    background-color: rgb(90, 0, 138);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 50px;
+    border: solid rgb(0, 0, 0) 5px;
+    text-align: center;
+}
+
+.img {
+    display: flex;
+    align-content: center;
+}
+
+.button {
+    margin-left: 650px;
+    margin-top: 50px;
+    font-size: 30px;
+}
